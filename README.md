@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @g30rgyth3d4rk
+- 👋 Hi, I’m @crypt0g30rgy
 - 👀 I’m interested in Information Technology and Security
 - 🌱 I’m currently learning Cyb3r S£curity, Bug Bounty and Python.
 - 💞️ I’m looking to collaborate with some of the hacking greatest minds in the future. 
