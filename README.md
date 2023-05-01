@@ -1,5 +1,5 @@
-#            👋 Hi, I’m @crypt0g30rgy
-=========================================
+#            👋 Hello, I’m @crypt0g30rgy🤓
+=============================================
 
 - 👀 I’m interested in Information Technology and Security
 - 🌱 I’m currently learning Cyb3r S£curity, Bug Bounty and Python.
