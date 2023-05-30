@@ -16,7 +16,11 @@
 
 # Stats
 
-[![crypt0g30rgy's GitHub stats](https://github-readme-stats.vercel.app/api?username=crypt0g30rgy&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Url Sorter](https://github-readme-stats.vercel.app/api/pin/?username=crypt0g30rgy&repo=Urls-Sorter&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![crypt0g30rgy's GitHub stats](https://github-readme-stats.vercel.app/api?username=crypt0g30rgy&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+# Pinned
+
+[![Url Sorter](https://github-readme-stats.vercel.app/api/pin/?username=crypt0g30rgy&repo=Urls-Sorter&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
