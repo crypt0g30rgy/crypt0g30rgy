@@ -20,8 +20,7 @@
 
 # Pinned
 
-[![Url Sorter](https://github-readme-stats.xboy.me/api/pin/?username=crypt0g30rgy&repo=Urls-Sorter&theme=synthwave)
-
+[![Url Sorter](https://github-readme-stats.xboy.me/api/pin/?username=crypt0g30rgy&repo=Urls-Sorter&theme=synthwave)]()
 
 <!---
 crypt0g30rgy/crypt0g30rgy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
