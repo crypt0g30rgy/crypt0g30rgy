@@ -12,15 +12,14 @@
 - JavaScript
 - Bash
 
-[![Top Langs](https://github-readme-stats.xboy.me/api/top-langs/?username=crypt0g30rgy&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.xboy.me/api/top-langs/?username=crypt0g30rgy&layout=compact&theme=tokyonight)]
 
 # Stats
 
-[![crypt0g30rgy's GitHub stats](https://github-readme-stats.xboy.me/api?username=crypt0g30rgy&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![crypt0g30rgy's GitHub stats](https://github-readme-stats.xboy.me/api?username=crypt0g30rgy&count_private=true&show_icons=true&theme=radical)]
 # Pinned
 
-[![Url Sorter](https://github-readme-stats.xboy.me/api/pin/?username=crypt0g30rgy&repo=Urls-Sorter&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Url Sorter](https://github-readme-stats.xboy.me/api/pin/?username=crypt0g30rgy&repo=Urls-Sorter&theme=synthwave)
 
 
 <!---
