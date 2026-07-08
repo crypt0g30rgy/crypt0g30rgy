@@ -15,6 +15,7 @@
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 ![Pinned](./profile/pin-stats.svg)
+![Waka](./profile/waka-stats.svg)
 
 <!---
 crypt0g30rgy/crypt0g30rgy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
