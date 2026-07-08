@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&theme=radical
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=tokyonight
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -35,8 +35,8 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=stats-organization&repo=github-readme-stats
-          path: profile/pin-stats-organization-github-readme-stats.svg
+          options: username=${{ github.repository_owner }}&repo=scripts
+          path: profile/pin-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards

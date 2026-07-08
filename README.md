@@ -14,7 +14,7 @@
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
+![Pinned](./profile/pin-stats.svg)
 
 <!---
 crypt0g30rgy/crypt0g30rgy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
