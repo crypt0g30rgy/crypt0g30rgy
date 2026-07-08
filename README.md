@@ -14,7 +14,7 @@
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats.svg)
+[![Pinned](./profile/pin-stats.svg)](https://github.com/crypt0g30rgy/infra-services)
 ![Waka](./profile/waka-stats.svg)
 
 <!---
